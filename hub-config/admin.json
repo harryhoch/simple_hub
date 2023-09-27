@@ -1,12 +1,12 @@
 {
     "schema_version": "https://raw.githubusercontent.com/Infectious-Disease-Modeling-Hubs/schemas/main/v2.0.0/admin-schema.json",
-    "name": "Template Forecast Hub",
-    "maintainer": "Consortium of Infectious Disease Modeling Hubs",
+    "name": "Harry's simple Forecast Hub",
+    "maintainer": "Harry H",
     "contact": {
-        "name": "Joe Bloggs",
-        "email": "j.bloggs@cidmh.com"
+        "name": "Harry H",
+        "email": "harryh@pitt.edu"
     },
-    "repository_url": "https://github.com/Infectious-Disease-Modeling-Hubs/hubTemplate",
+    "repository_url": "https://github.com/harryhoch/simple_hub",
     "file_format": ["csv", "parquet"],
     "timezone": "US/Eastern"
 }
